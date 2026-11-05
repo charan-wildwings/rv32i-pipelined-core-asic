@@ -1,0 +1,19 @@
+VCD info: dumpfile results/regression.vcd opened for output.
+
+========================================
+       RV32I REGRESSION RESULTS
+========================================
+PASS: x1 = 5
+PASS: x2 = 10
+PASS: x3 = 15
+PASS: x4 = 5
+PASS: x5 = 15
+PASS: x6 = 20
+PASS: x7 = 25
+PASS: x9 = 30
+PASS: x8 = 44
+PASS: Memory[0] = 15
+----------------------------------------
+FINAL RESULT: ALL TESTS PASSED
+========================================
+tb/tb_regression.v:171: $finish called at 520000 (1ps)

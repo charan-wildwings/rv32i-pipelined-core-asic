@@ -1,0 +1,195 @@
+reports/nangate45/rv32i_core/base/2_floorplan_final.rpt:3:floorplan final report_tns
+reports/nangate45/rv32i_core/base/2_floorplan_final.rpt:5:tns max 0.00
+reports/nangate45/rv32i_core/base/2_floorplan_final.rpt:8:floorplan final report_wns
+reports/nangate45/rv32i_core/base/2_floorplan_final.rpt:10:wns max 0.00
+reports/nangate45/rv32i_core/base/2_floorplan_final.rpt:13:floorplan final report_worst_slack
+reports/nangate45/rv32i_core/base/2_floorplan_final.rpt:15:worst slack max 8.39
+reports/nangate45/rv32i_core/base/2_floorplan_final.rpt:50:                          0.00    0.05   library hold time
+reports/nangate45/rv32i_core/base/2_floorplan_final.rpt:56:                                  0.03   slack (MET)
+reports/nangate45/rv32i_core/base/2_floorplan_final.rpt:163:                         -0.04    9.76   library setup time
+reports/nangate45/rv32i_core/base/2_floorplan_final.rpt:169:                                  8.39   slack (MET)
+reports/nangate45/rv32i_core/base/2_floorplan_final.rpt:276:                         -0.04    9.76   library setup time
+reports/nangate45/rv32i_core/base/2_floorplan_final.rpt:282:                                  8.39   slack (MET)
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:3:cts final report_tns
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:5:tns max 0.00
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:8:cts final report_wns
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:10:wns max 0.00
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:13:cts final report_worst_slack
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:15:worst slack max 7.99
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:31:   0.21 setup skew
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:84:                          0.01    0.28   library hold time
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:90:                                  0.04   slack (MET)
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:204:                         -0.03    9.99   library setup time
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:210:                                  7.99   slack (MET)
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:324:                         -0.03    9.99   library setup time
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:330:                                  7.99   slack (MET)
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:339:cts final max_slew_check_slack
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:349:cts final max_slew_check_slack_limit
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:354:cts final max_fanout_check_slack
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:364:cts final max_capacitance_check_slack
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:374:cts final max_capacitance_check_slack_limit
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:379:cts final max_slew_violation_count
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:381:max slew violation count 0
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:384:cts final max_fanout_violation_count
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:386:max fanout violation count 0
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:389:cts final max_cap_violation_count
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:391:max cap violation count 0
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:394:cts final setup_violation_count
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:396:setup violation count 0
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:399:cts final hold_violation_count
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:401:hold violation count 0
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:456:  -0.03    9.99   library setup time
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:462:           7.99   slack (MET)
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:499:   0.01    0.28   library hold time
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:505:           0.04   slack (MET)
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:530:cts final critical path slack
+reports/nangate45/rv32i_core/base/4_cts_final.rpt:535:cts final slack div critical path delay
+reports/nangate45/rv32i_core/base/3_resizer.rpt:3:resizer report_tns
+reports/nangate45/rv32i_core/base/3_resizer.rpt:5:tns max 0.00
+reports/nangate45/rv32i_core/base/3_resizer.rpt:8:resizer report_wns
+reports/nangate45/rv32i_core/base/3_resizer.rpt:10:wns max 0.00
+reports/nangate45/rv32i_core/base/3_resizer.rpt:13:resizer report_worst_slack
+reports/nangate45/rv32i_core/base/3_resizer.rpt:15:worst slack max 8.01
+reports/nangate45/rv32i_core/base/3_resizer.rpt:50:                          0.01    0.06   library hold time
+reports/nangate45/rv32i_core/base/3_resizer.rpt:56:                                  0.04   slack (MET)
+reports/nangate45/rv32i_core/base/3_resizer.rpt:148:                         -0.03    9.77   library setup time
+reports/nangate45/rv32i_core/base/3_resizer.rpt:154:                                  8.01   slack (MET)
+reports/nangate45/rv32i_core/base/3_resizer.rpt:246:                         -0.03    9.77   library setup time
+reports/nangate45/rv32i_core/base/3_resizer.rpt:252:                                  8.01   slack (MET)
+reports/nangate45/rv32i_core/base/3_resizer.rpt:261:resizer max_slew_check_slack
+reports/nangate45/rv32i_core/base/3_resizer.rpt:271:resizer max_slew_check_slack_limit
+reports/nangate45/rv32i_core/base/3_resizer.rpt:276:resizer max_fanout_check_slack
+reports/nangate45/rv32i_core/base/3_resizer.rpt:286:resizer max_capacitance_check_slack
+reports/nangate45/rv32i_core/base/3_resizer.rpt:296:resizer max_capacitance_check_slack_limit
+reports/nangate45/rv32i_core/base/3_resizer.rpt:301:resizer max_slew_violation_count
+reports/nangate45/rv32i_core/base/3_resizer.rpt:303:max slew violation count 0
+reports/nangate45/rv32i_core/base/3_resizer.rpt:306:resizer max_fanout_violation_count
+reports/nangate45/rv32i_core/base/3_resizer.rpt:308:max fanout violation count 0
+reports/nangate45/rv32i_core/base/3_resizer.rpt:311:resizer max_cap_violation_count
+reports/nangate45/rv32i_core/base/3_resizer.rpt:313:max cap violation count 0
+reports/nangate45/rv32i_core/base/3_resizer.rpt:316:resizer setup_violation_count
+reports/nangate45/rv32i_core/base/3_resizer.rpt:318:setup violation count 0
+reports/nangate45/rv32i_core/base/3_resizer.rpt:321:resizer hold_violation_count
+reports/nangate45/rv32i_core/base/3_resizer.rpt:323:hold violation count 0
+reports/nangate45/rv32i_core/base/3_resizer.rpt:370:  -0.03    9.77   library setup time
+reports/nangate45/rv32i_core/base/3_resizer.rpt:376:           8.01   slack (MET)
+reports/nangate45/rv32i_core/base/3_resizer.rpt:405:   0.01    0.06   library hold time
+reports/nangate45/rv32i_core/base/3_resizer.rpt:411:           0.04   slack (MET)
+reports/nangate45/rv32i_core/base/3_resizer.rpt:436:resizer critical path slack
+reports/nangate45/rv32i_core/base/3_resizer.rpt:441:resizer slack div critical path delay
+reports/nangate45/rv32i_core/base/6_finish.rpt:3:finish report_tns
+reports/nangate45/rv32i_core/base/6_finish.rpt:5:tns max 0.00
+reports/nangate45/rv32i_core/base/6_finish.rpt:8:finish report_wns
+reports/nangate45/rv32i_core/base/6_finish.rpt:10:wns max 0.00
+reports/nangate45/rv32i_core/base/6_finish.rpt:13:finish report_worst_slack
+reports/nangate45/rv32i_core/base/6_finish.rpt:15:worst slack max 7.97
+reports/nangate45/rv32i_core/base/6_finish.rpt:31:   0.22 setup skew
+reports/nangate45/rv32i_core/base/6_finish.rpt:84:                          0.01    0.27   library hold time
+reports/nangate45/rv32i_core/base/6_finish.rpt:90:                                  0.04   slack (MET)
+reports/nangate45/rv32i_core/base/6_finish.rpt:204:                         -0.03    9.98   library setup time
+reports/nangate45/rv32i_core/base/6_finish.rpt:210:                                  7.97   slack (MET)
+reports/nangate45/rv32i_core/base/6_finish.rpt:324:                         -0.03    9.98   library setup time
+reports/nangate45/rv32i_core/base/6_finish.rpt:330:                                  7.97   slack (MET)
+reports/nangate45/rv32i_core/base/6_finish.rpt:339:Pin                                    Limit     Cap   Slack
+reports/nangate45/rv32i_core/base/6_finish.rpt:347:finish max_slew_check_slack
+reports/nangate45/rv32i_core/base/6_finish.rpt:357:finish max_slew_check_slack_limit
+reports/nangate45/rv32i_core/base/6_finish.rpt:362:finish max_fanout_check_slack
+reports/nangate45/rv32i_core/base/6_finish.rpt:372:finish max_capacitance_check_slack
+reports/nangate45/rv32i_core/base/6_finish.rpt:382:finish max_capacitance_check_slack_limit
+reports/nangate45/rv32i_core/base/6_finish.rpt:387:finish max_slew_violation_count
+reports/nangate45/rv32i_core/base/6_finish.rpt:389:max slew violation count 0
+reports/nangate45/rv32i_core/base/6_finish.rpt:392:finish max_fanout_violation_count
+reports/nangate45/rv32i_core/base/6_finish.rpt:394:max fanout violation count 0
+reports/nangate45/rv32i_core/base/6_finish.rpt:397:finish max_cap_violation_count
+reports/nangate45/rv32i_core/base/6_finish.rpt:399:max cap violation count 2
+reports/nangate45/rv32i_core/base/6_finish.rpt:402:finish setup_violation_count
+reports/nangate45/rv32i_core/base/6_finish.rpt:404:setup violation count 0
+reports/nangate45/rv32i_core/base/6_finish.rpt:407:finish hold_violation_count
+reports/nangate45/rv32i_core/base/6_finish.rpt:409:hold violation count 0
+reports/nangate45/rv32i_core/base/6_finish.rpt:464:  -0.03    9.98   library setup time
+reports/nangate45/rv32i_core/base/6_finish.rpt:470:           7.97   slack (MET)
+reports/nangate45/rv32i_core/base/6_finish.rpt:507:   0.01    0.27   library hold time
+reports/nangate45/rv32i_core/base/6_finish.rpt:513:           0.04   slack (MET)
+reports/nangate45/rv32i_core/base/6_finish.rpt:538:finish critical path slack
+reports/nangate45/rv32i_core/base/6_finish.rpt:543:finish slack div critical path delay
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:3:detailed place report_tns
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:5:tns max 0.00
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:8:detailed place report_wns
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:10:wns max 0.00
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:13:detailed place report_worst_slack
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:15:worst slack max 8.00
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:50:                          0.01    0.06   library hold time
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:56:                                  0.04   slack (MET)
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:148:                         -0.03    9.77   library setup time
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:154:                                  8.00   slack (MET)
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:246:                         -0.03    9.77   library setup time
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:252:                                  8.00   slack (MET)
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:261:Pin                                    Limit     Cap   Slack
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:267:detailed place max_slew_check_slack
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:277:detailed place max_slew_check_slack_limit
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:282:detailed place max_fanout_check_slack
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:292:detailed place max_capacitance_check_slack
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:302:detailed place max_capacitance_check_slack_limit
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:307:detailed place max_slew_violation_count
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:309:max slew violation count 0
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:312:detailed place max_fanout_violation_count
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:314:max fanout violation count 0
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:317:detailed place max_cap_violation_count
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:319:max cap violation count 1
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:322:detailed place setup_violation_count
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:324:setup violation count 0
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:327:detailed place hold_violation_count
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:329:hold violation count 0
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:376:  -0.03    9.77   library setup time
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:382:           8.00   slack (MET)
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:411:   0.01    0.06   library hold time
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:417:           0.04   slack (MET)
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:442:detailed place critical path slack
+reports/nangate45/rv32i_core/base/3_detailed_place.rpt:447:detailed place slack div critical path delay
+reports/nangate45/rv32i_core/base/5_global_route.rpt:3:global route report_tns
+reports/nangate45/rv32i_core/base/5_global_route.rpt:5:tns max 0.00
+reports/nangate45/rv32i_core/base/5_global_route.rpt:8:global route report_wns
+reports/nangate45/rv32i_core/base/5_global_route.rpt:10:wns max 0.00
+reports/nangate45/rv32i_core/base/5_global_route.rpt:13:global route report_worst_slack
+reports/nangate45/rv32i_core/base/5_global_route.rpt:15:worst slack max 7.94
+reports/nangate45/rv32i_core/base/5_global_route.rpt:31:   0.22 setup skew
+reports/nangate45/rv32i_core/base/5_global_route.rpt:84:                          0.01    0.29   library hold time
+reports/nangate45/rv32i_core/base/5_global_route.rpt:90:                                  0.04   slack (MET)
+reports/nangate45/rv32i_core/base/5_global_route.rpt:203:                         -0.03   10.00   library setup time
+reports/nangate45/rv32i_core/base/5_global_route.rpt:209:                                  7.94   slack (MET)
+reports/nangate45/rv32i_core/base/5_global_route.rpt:322:                         -0.03   10.00   library setup time
+reports/nangate45/rv32i_core/base/5_global_route.rpt:328:                                  7.94   slack (MET)
+reports/nangate45/rv32i_core/base/5_global_route.rpt:337:Pin                                    Limit     Cap   Slack
+reports/nangate45/rv32i_core/base/5_global_route.rpt:349:global route max_slew_check_slack
+reports/nangate45/rv32i_core/base/5_global_route.rpt:359:global route max_slew_check_slack_limit
+reports/nangate45/rv32i_core/base/5_global_route.rpt:364:global route max_fanout_check_slack
+reports/nangate45/rv32i_core/base/5_global_route.rpt:374:global route max_capacitance_check_slack
+reports/nangate45/rv32i_core/base/5_global_route.rpt:384:global route max_capacitance_check_slack_limit
+reports/nangate45/rv32i_core/base/5_global_route.rpt:389:global route max_slew_violation_count
+reports/nangate45/rv32i_core/base/5_global_route.rpt:391:max slew violation count 0
+reports/nangate45/rv32i_core/base/5_global_route.rpt:394:global route max_fanout_violation_count
+reports/nangate45/rv32i_core/base/5_global_route.rpt:396:max fanout violation count 0
+reports/nangate45/rv32i_core/base/5_global_route.rpt:399:global route max_cap_violation_count
+reports/nangate45/rv32i_core/base/5_global_route.rpt:401:max cap violation count 4
+reports/nangate45/rv32i_core/base/5_global_route.rpt:404:global route setup_violation_count
+reports/nangate45/rv32i_core/base/5_global_route.rpt:406:setup violation count 0
+reports/nangate45/rv32i_core/base/5_global_route.rpt:409:global route hold_violation_count
+reports/nangate45/rv32i_core/base/5_global_route.rpt:411:hold violation count 0
+reports/nangate45/rv32i_core/base/5_global_route.rpt:465:  -0.03   10.00   library setup time
+reports/nangate45/rv32i_core/base/5_global_route.rpt:471:           7.94   slack (MET)
+reports/nangate45/rv32i_core/base/5_global_route.rpt:508:   0.01    0.29   library hold time
+reports/nangate45/rv32i_core/base/5_global_route.rpt:514:           0.04   slack (MET)
+reports/nangate45/rv32i_core/base/5_global_route.rpt:539:global route critical path slack
+reports/nangate45/rv32i_core/base/5_global_route.rpt:544:global route slack div critical path delay
+reports/nangate45/rv32i_core/base/3_global_place.rpt:3:global place report_tns
+reports/nangate45/rv32i_core/base/3_global_place.rpt:5:tns max 0.00
+reports/nangate45/rv32i_core/base/3_global_place.rpt:8:global place report_wns
+reports/nangate45/rv32i_core/base/3_global_place.rpt:10:wns max 0.00
+reports/nangate45/rv32i_core/base/3_global_place.rpt:13:global place report_worst_slack
+reports/nangate45/rv32i_core/base/3_global_place.rpt:15:worst slack max 8.01
+reports/nangate45/rv32i_core/base/3_global_place.rpt:50:                          0.01    0.06   library hold time
+reports/nangate45/rv32i_core/base/3_global_place.rpt:56:                                  0.04   slack (MET)
+reports/nangate45/rv32i_core/base/3_global_place.rpt:148:                         -0.03    9.77   library setup time
+reports/nangate45/rv32i_core/base/3_global_place.rpt:154:                                  8.01   slack (MET)
+reports/nangate45/rv32i_core/base/3_global_place.rpt:246:                         -0.03    9.77   library setup time
+reports/nangate45/rv32i_core/base/3_global_place.rpt:252:                                  8.01   slack (MET)
